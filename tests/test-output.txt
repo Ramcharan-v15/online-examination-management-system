@@ -1,0 +1,22 @@
+PASS: sample exam has 5 questions
+PASS: sample exam total is 10 marks
+PASS: all correct scores 10/10
+PASS: demo answers score 8/10 (80%, PASS)
+PASS: no answers scores 0 and FAILs
+PASS: out-of-range answers count as wrong, not crash
+PASS: 40% boundary passes (4/10)
+PASS: question with 3 options rejected
+PASS: question with correctIndex 4 rejected
+PASS: question with 0 marks rejected
+PASS: exam with 0 duration rejected
+PASS: blank student roll rejected
+PASS: duplicate exam id rejected
+PASS: question for unknown exam rejected
+PASS: duplicate question id in one exam rejected
+PASS: results for exam filter works
+PASS: average percentage is 90.0
+PASS: average of unknown exam is 0.0
+PASS: results for student filter works
+PASS: CSV quoting round-trips commas/quotes
+
+20 passed, 0 failed.

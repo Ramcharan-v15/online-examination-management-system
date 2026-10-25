@@ -1,0 +1,15 @@
+=== Online Examination Management System (demo) ===
+Student: 25881A05DQ - Vannala Ramcharan
+Exam: JAVA101 - Java Fundamentals (30 minutes, 10 marks)
+1. Which keyword is used to inherit a class in Java?
+   Answer chosen: 2. extends
+2. Which of these is NOT a Java primitive type?
+   Answer chosen: 3. String
+3. What is the size of an int in Java?
+   Answer chosen: 1. 8 bits
+4. Which collection does NOT allow duplicate elements?
+   Answer chosen: 3. HashSet
+5. Which method is the entry point of a Java program?
+   Answer chosen: 3. main()
+Result: 25881A05DQ | Exam JAVA101 | 8/10 (80.0%) | PASS | 2026-10-25 18:29
+Saved to data/ (exams.csv, questions.csv, students.csv, results.csv)

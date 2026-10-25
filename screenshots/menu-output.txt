@@ -1,0 +1,26 @@
+
+=== Online Examination Management System ===
+1. Admin menu
+2. Student menu
+3. Exit
+Choose an option: 
+--- Admin Menu ---
+1. Create exam
+2. Add question to exam
+3. List exams
+4. View all results
+5. Back
+Choose an option: No exams yet.
+
+--- Admin Menu ---
+1. Create exam
+2. Add question to exam
+3. List exams
+4. View all results
+5. Back
+Choose an option: 
+=== Online Examination Management System ===
+1. Admin menu
+2. Student menu
+3. Exit
+Choose an option: Goodbye!
